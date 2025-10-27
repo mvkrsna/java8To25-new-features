@@ -2,7 +2,7 @@ package LambdaConcepts;
 
 import java.util.Comparator;
 
-public class ComparableUsingLambda {
+public class ComparatorUsingLambda {
     public static void main(String[] args) {
 
         Comparator<Integer> comparator = new Comparator<Integer>() {
